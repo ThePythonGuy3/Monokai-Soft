@@ -59,5 +59,10 @@
 			"foreground": "var(orange)",
 			"font_style": "italic",
 		},
+		{
+			"scope":"storage.modifier",
+			"foreground": "var(pink)",
+			"font_style": "0",
+		}
 	]
 }
