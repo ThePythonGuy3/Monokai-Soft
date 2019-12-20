@@ -1,0 +1,63 @@
+{
+	"variables": {
+		"pink":"#EE5C5C",
+		"green":"#51FF4C",
+		"blue":"#37EBF1",
+		"white":"#FEFEFE",
+		"grey":"#ACB0AC",
+		"yellow":"#FFF44B",
+		"purple":"#C36CFF",
+		"orange":"#F7AA1A",
+
+	},
+	"globals": {
+		"foreground": "#F4F4F4",
+		"background": "#2C2C2C",
+		"accent": "#FEFEFE",
+		"selection": "#CDCDCD45",
+		"caret": "#FEFEFE",
+		"name":"Mario",
+	},
+	"rules": [
+		{
+			"scope": "string",
+			"foreground": "var(yellow)",
+		},
+		{
+			"scope": "variable",
+			"foreground": "var(blue)",
+		},
+		{
+			"scope": "keyword",
+			"foreground": "var(pink)",
+		},
+		{
+			"scope": "constant",
+			"foreground": "var(purple)",
+		},
+		{
+			"scope":"comment",
+			"foreground": "var(grey)",
+		},
+		{
+			"scope":"storage",
+			"foreground": "var(blue)",
+			"font_style": "italic",
+		},
+		{
+			"scope":"entity.name.function",
+			"foreground": "var(green)",
+			
+		},
+		{
+			"scope":"entity.name.class",
+			"foreground": "var(green)",
+			
+		},
+		{
+			"scope":"variable.parameter",
+			"foreground": "var(orange)",
+			"font_style": "italic",
+		},
+	]
+}
