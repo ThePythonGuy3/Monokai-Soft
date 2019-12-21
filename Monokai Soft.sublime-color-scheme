@@ -16,7 +16,6 @@
 		"accent": "#FEFEFE",
 		"selection": "#CDCDCD45",
 		"caret": "#FEFEFE",
-		"name":"Mario",
 	},
 	"rules": [
 		{
@@ -63,6 +62,14 @@
 			"scope":"storage.modifier",
 			"foreground": "var(pink)",
 			"font_style": "0",
+		},
+		{
+			"scope":"constant.character",
+			"foreground": "var(purple)",
+		},
+		{
+			"scope":"variable.other",
+			"foreground": "var(purple)",
 		}
 	]
 }
