@@ -16,6 +16,7 @@
 		"accent": "#FEFEFE",
 		"selection": "#CDCDCD45",
 		"caret": "#FEFEFE",
+		"name":"Mario",
 	},
 	"rules": [
 		{
@@ -70,6 +71,11 @@
 		{
 			"scope":"variable.other",
 			"foreground": "var(purple)",
+		},
+		{
+			"scope":"support.type",
+			"foreground": "var(blue)",
+			"font_style": "italic"
 		}
 	]
 }
