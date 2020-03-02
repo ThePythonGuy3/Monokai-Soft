@@ -60,22 +60,20 @@
 			"font_style": "italic",
 		},
 		{
-			"scope":"storage.modifier",
-			"foreground": "var(pink)",
-			"font_style": "0",
+			"scope":"entity.name.tag",
+			"foreground": "var(pink)"
 		},
 		{
-			"scope":"constant.character",
-			"foreground": "var(purple)",
-		},
-		{
-			"scope":"variable.other",
-			"foreground": "var(purple)",
+			"scope":"entity.other.attribute-name",
+			"foreground": "var(green)"
 		},
 		{
 			"scope":"support.type",
-			"foreground": "var(blue)",
-			"font_style": "italic"
+			"foreground": "var(blue)"
+		},
+		{
+			"scope":"support.constant",
+			"foreground": "var(blue)"
 		}
 	]
 }
