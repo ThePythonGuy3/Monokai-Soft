@@ -6,10 +6,20 @@ C++
 
 C
 
-JavaScript
-
 C#
+
+Java
+
+JavaScript
 
 CSS
 
 HTML
+
+PHP
+### 2.5.2 and under:
+Python
+
+HTML
+
+CSS
