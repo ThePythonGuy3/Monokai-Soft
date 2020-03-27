@@ -2,22 +2,22 @@
 Monokai soft is a color scheme designed for Sublime Text. It is a mix of soft colors that combined create the best color scheme to avoid getting tired of coding.
 
 ## Screenshots
-Python
+### Python
 ![Python](https://github.com/ThePythonGuy3/Monokai-Soft/blob/master/resources/Python.PNG)
 
-C++
+### C++
 ![C++](https://github.com/ThePythonGuy3/Monokai-Soft/blob/master/resources/c%2B%2B.PNG)
 
-C
+### C
 ![C](https://github.com/ThePythonGuy3/Monokai-Soft/blob/master/resources/c.PNG)
 
-C#
+### C#
 ![C#](https://github.com/ThePythonGuy3/Monokai-Soft/blob/master/resources/C%23.PNG)
 
-CSS
+### CSS
 ![CSS](https://github.com/ThePythonGuy3/Monokai-Soft/blob/master/resources/css.PNG)
 
-HTML
+### HTML
 ![HTML](https://github.com/ThePythonGuy3/Monokai-Soft/blob/master/resources/html.PNG)
 
 ## Instalation
