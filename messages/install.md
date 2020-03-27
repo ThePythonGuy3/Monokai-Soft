@@ -2,7 +2,7 @@
 
 Thank you for installing Monokai Soft.
 
-##How to use
+## How to use
 Go to "Preferences -> Color Scheme -> Monokai Soft" from the menu bar.
 
 ## Feedback
