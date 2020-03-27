@@ -12,7 +12,7 @@
 	},
 	"globals": {
 		"foreground": "#F4F4F4",
-		"background": "#2C2C2C",
+		"background": "#050412",
 		"accent": "#FEFEFE",
 		"selection": "#CDCDCD45",
 		"caret": "#FEFEFE",
