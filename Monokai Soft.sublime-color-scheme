@@ -74,6 +74,18 @@
 		{
 			"scope":"support.constant",
 			"foreground": "var(blue)"
-		}
+		},
+		{
+			"scope":"support.function",
+			"foreground": "var(blue)"
+		},
+		{
+			"scope":"meta.preprocessor",
+			"foreground": "var(pink)"
+		},
+		{
+			"scope":"punctuation.section.embedded",
+			"foreground": "var(pink)"
+		},
 	]
 }
