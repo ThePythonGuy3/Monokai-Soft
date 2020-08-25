@@ -23,5 +23,10 @@ Monokai soft is a color scheme designed for Sublime Text. It is a mix of soft co
 ## Instalation
 Make sure you have [Package Control](https://packagecontrol.io/installation) installed.
 
-1. Go to "Preferences -> Package control -> Add repository -> write "https://github.com/ThePythonGuy3/Monokai-Soft" -> <kbd>Enter</kbd> -> Preferences -> Package Control -> Install Package -> search **`Monokai-Soft`** -> <kbd>Enter</kbd> -> Done"
+Simple instalation:
+ - Go to "Preferences -> Package control -> Install Package -> search **`Monokai Soft`** -> click it -> Done"
+ 
+Manual instalation:
+
+ - Go to "Preferences -> Package control -> Add repository -> write "https://github.com/ThePythonGuy3/Monokai-Soft" -> <kbd>Enter</kbd> -> Preferences -> Package Control -> Install Package -> search **`Monokai-Soft`** -> <kbd>Enter</kbd> -> Done"
 
